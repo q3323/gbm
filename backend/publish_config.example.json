@@ -1,0 +1,7 @@
+{
+  "host": "YOUR_SERVER_IP",
+  "port": 22,
+  "username": "root",
+  "remote_data_root": "/opt/gupaio/data",
+  "sync_before_train": false
+}

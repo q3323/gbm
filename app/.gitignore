@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/device-*
+/analysis-*-check.*
+/models-*-check.*
+/local-*-check.*
+/groups-*-check.*
